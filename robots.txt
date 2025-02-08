@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dusk-hunters.github.io/galaxxy/sitemap.xml
